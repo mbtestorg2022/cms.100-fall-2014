@@ -24,13 +24,90 @@ This course has no prerequisites.
 Grading
 -------
 
-| ASSIGNMENTS | POINTS |
-| --- | --- |
-| "24 Hours" notes | 50 (5%) |
-| "24 Hours" paper | 100 (10%) |
-| Media Analysis paper | 200 (20%) |
-| Media Analysis revision | 100 (10%) |
-| Interview transcripts | 100 (10%) |
-| Media Research paper | 250 (25%) |
-| Class engagement | 100 (10%) |
-| Writing advisor engagement | 100 (10%)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"24 Hours" notes
+{{< tdclose >}}
+{{< tdopen >}}
+50 (5%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"24 Hours" paper
+{{< tdclose >}}
+{{< tdopen >}}
+100 (10%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Media Analysis paper
+{{< tdclose >}}
+{{< tdopen >}}
+200 (20%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Media Analysis revision
+{{< tdclose >}}
+{{< tdopen >}}
+100 (10%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interview transcripts
+{{< tdclose >}}
+{{< tdopen >}}
+100 (10%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Media Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+250 (25%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class engagement
+{{< tdclose >}}
+{{< tdopen >}}
+100 (10%)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Writing advisor engagement
+{{< tdclose >}}
+{{< tdopen >}}
+100 (10%)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
